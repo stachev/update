@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXTINF:0 tvg-id="T1" tvg-name="Первый HD" tvg-rec="1" timeshift="1", Первый HD
+#EXTGRP:Россия
+http://cdn.iptv.monster/play/73/484ED3A6F025C66/video.m3u8
